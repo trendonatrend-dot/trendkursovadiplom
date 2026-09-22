@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trendonatrend-dot.github.io/trendkursovadiplom/sitemap.xml
